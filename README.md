@@ -188,5 +188,14 @@ jupyter notebook Telco_Customer_Churn.ipynb
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ```
+### 📈 Visual Insights & EDA
 
+<p align="center">
+  <img src="churn_distribution.png" width="48%" alt="Churn Distribution" />
+  <img src="contract_churn.png" width="48%" alt="Monthly Charges vs Churn" />
+</p>
+
+<p align="center">
+  <img src="feature_importance.png" width="96%" alt="Top Feature Importances" />
+</p>
 ```
